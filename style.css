@@ -2,14 +2,11 @@ html {
     background-color: bisque;
 }
 
-h1 {
-    color: blueviolet;
+h3 {
+   font-size: 26px;
 }
 
-.friend {
-    background-color: cornsilk;
-}
-
-.friend h3 {
-   text-transform: uppercase;
+p {
+    color: brown;
+    font-size: 12px;
 }
